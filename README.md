@@ -54,8 +54,3 @@ Include:
 - Improved SQL query optimization and performance analysis
 
 ---
-
-## 🔗 Links
-- 📘 [Data Engineering Project PDF](./Data%20Engineering/Project%20-%20Data%20Engineering.pdf)  
-- 📗 [Business Intelligence Project PDF](./Business%20Intelligence/Project%20-%20Business%20Intelligence.pdf)
-- 💻 [GitHub Repository](https://github.com/YOUR_USERNAME/AdventureWorks-BI-DE-Project)
